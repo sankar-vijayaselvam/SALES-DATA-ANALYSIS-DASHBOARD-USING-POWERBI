@@ -41,6 +41,5 @@ Power BI Desktop (latest version) to view and modify the dashboard.
 
 Future Enhancements
 
-Adding predictive analytics for sales forecasting.
 Incorporating real-time data updates.
 Enhancing customer segmentation with advanced analytics.
